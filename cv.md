@@ -38,7 +38,7 @@ First team in FT to use Acceptance Test Driven Development (ATDD) and move the i
 - Nagios and Splunk alerts for the service
 
 
-**Membership ** - User/billing services
+**Membership** - User/billing services
 
 - Paypal integration for ft.com subscription sign up
 - Implementation of 'Manage My Account' features on ft.com that allows users to manage personal and billing details.
