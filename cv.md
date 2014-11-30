@@ -56,7 +56,7 @@ First team in FT to use Acceptance Test Driven Development (ATDD) and move the i
 
 Queen Mary University :: BCs Computer Science :: 2006 - 2009 
 
-**AWS training** - 2014, overview and hands work with ec2, s3, sts and other AWS services. 
+**AWS training** - 2014, overview and hands work with ec2, s3, sts and other AWS services.  
 **Puppet training** - 2013 (PuppetLabs) course of advanced applications and uses of puppet. 
 
 ####Interests
@@ -66,7 +66,7 @@ Queen Mary University :: BCs Computer Science :: 2006 - 2009
 
 ####Skills and Expertise:
 
-**Languages**: Java, Python, SQL, Puppet 
-**Frameworks/Libraries**: Django, Django REST, Docker, Spring, Hibernate, Mockito, Grinder 
-**Development Methodologies**: Agile, Scrum, Kanban, Devops 
+**Languages**: Java, Python, SQL, Puppet  
+**Frameworks/Libraries**: Django, Django REST, Docker, Spring, Hibernate, Mockito, Grinder  
+**Development Methodologies**: Agile, Scrum, Kanban, Devops  
 
