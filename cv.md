@@ -35,7 +35,7 @@ First team in FT to use Acceptance Test Driven Development (ATDD) and move the i
 - API services between new application and legacy systems 
 - Puppet module for database replication (Tungsten replicator)
 - Atom feed between the application and downstream services
-- Nagios and Splunk alerts for the service
+- Nagios and Splunk alerting and monitoring of the service
 
 
 **Membership** - User/billing services
@@ -48,25 +48,25 @@ First team in FT to use Acceptance Test Driven Development (ATDD) and move the i
 **Performance Test Suite** - Membership/billing performance test suite
 
 - Writing a performance test suite using grinder + python that covered 5+ microservices and 10+ legacy billing and user management systems
-- Automation scripts written in python enabling a one-click pass or fail testing including pre-run checks
+- Automation scripts written in python enabling a one-click pass or fail testing including pre-run/environment checks
 
 ---
 
 ####Education
 
-Queen Mary University :: BCs Computer Science :: 2006 - 2009
+Queen Mary University :: BCs Computer Science :: 2006 - 2009 
 
-**AWS training** - 2014, overview and hands work with ec2, sts and other AWS services.   
-**Puppet training** - 2013 (PuppetLabs) course of advanced applications and uses of puppet.
+**AWS training** - 2014, overview and hands work with ec2, s3, sts and other AWS services. 
+**Puppet training** - 2013 (PuppetLabs) course of advanced applications and uses of puppet. 
 
 ####Interests
 
-- Regularly attend meetups for DJango Dev, Puppet, Hacker News.  Attended Jax London Conf 2013.
-- Cryptocurrencies, secure distributed comms (tor, otr), data privacy (owncloud, mail).
+- Regularly attend meetups for DJango Dev, Puppet, Hacker News.  Attended Jax London Conf 2013, PuppetCamp 2014. 
+- Cryptocurrencies, secure distributed comms (tor, otr), data privacy (owncloud, mail). 
 
 ####Skills and Expertise:
 
-**Languages**: Java, Python, SQL, Puppet  
-**Frameworks/Libraries**: Django, Django REST, Docker, Spring, Hibernate, Mockito, Grinder  
-**Development Methodologies**: Agile, Scrum, Kanban, Devops
+**Languages**: Java, Python, SQL, Puppet 
+**Frameworks/Libraries**: Django, Django REST, Docker, Spring, Hibernate, Mockito, Grinder 
+**Development Methodologies**: Agile, Scrum, Kanban, Devops 
 
