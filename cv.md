@@ -10,7 +10,7 @@ British Passport
 ---
 #####Financial Times :: Integration Engineer :: 2014-01 - Present
 
-FTPlatform is an inhouse built collection of services between FT applications and external providers (AWS, VMware..) built using Python and Django, that includes out of the box configuration and monitoring via Puppet and Nagios. In the FTPlatform team I was responsible for writing services exposing and consuming REST APIs and customer facing web UIs. Introducing unittesting, writing and maintaining large module repositories. Looking after services like SMTP and writing automation scripts for DNS.
+FTPlatform is an in-house built collection of services between FT applications and external providers (AWS, VMware..) built using Python and Django, that includes out of the box configuration and monitoring via Puppet and Nagios. In the FTPlatform team I was responsible for writing services exposing and consuming REST APIs and customer facing web UIs. Introducing unit testing, writing and maintaining large module repositories. Looking after services like SMTP and writing automation scripts for DNS.
 
 ######Achievements/Responsibilities
 - Building VMware, AWS interfacing components of FTPlatform
@@ -30,7 +30,7 @@ Creating release plans and coordinating releases with a large number of dependen
 ######Project highlights/achievements
 **Access Decision Service** - authorisation service for ft.com
 
-First team in FT to use Acceptance Test Driven Development (ATDD) and move the inhouse FTPlatform service. Access was deseigned to be low latency, high availability service, my  responsibilities on the project included:
+First team in FT to use Acceptance Test Driven Development (ATDD) and move the in-house FTPlatform service. Access was designed to be low latency, high availability service, my  responsibilities on the project included:
 
 - API services between new application and legacy systems 
 - Puppet module for database replication (Tungsten replicator)
