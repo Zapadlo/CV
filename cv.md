@@ -12,13 +12,13 @@ British Passport
 ---
 #####Financial Times :: Integration Engineer :: 2014-01 - Present
 
-Since June 2015 writing a new microservice platform, based around containers (Docker) hosted in AWS. Automating infrastructure management and writing a number of new microservices in golang as supporting applications. New platform hosts ~20 business services and ~30 supporting (monitoring/deployment) of the image publication stack, including stateless applications, databases and message ques.
+Since June 2015 writing a new microservice platform, based around containers (Docker) hosted in AWS. Automating infrastructure management and writing a number of new microservices in golang as supporting applications. This includes interacting with external GO libraries, writing tests, HTTP APIs using gorilla mux. New platform hosts ~20 business services and ~30 supporting (monitoring/deployment) of the image publication stack, including stateless applications, databases and message ques.
 
 ######Highlights
 
-- Deployer service, deploying applications via pull requests
+- Deployer service (golang), deploying applications via pull requests
 - Infrastructure in a docker image, deploying a new application stack in 10 minutes with a single command
-- System monitor as a healthcheck 
+- System monitor as a healthcheck (golang service)
 
 FTPlatform is an in-house built collection of services between FT applications and external providers (AWS, VMware..) built using Python and Django, that includes out of the box configuration and monitoring via Puppet and Nagios. In the FTPlatform team I was responsible for writing services exposing and consuming REST APIs and customer facing web UIs. Introducing unit testing, writing and maintaining large module repositories. Looking after services like SMTP and writing automation scripts for DNS.
 
