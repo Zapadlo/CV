@@ -2,19 +2,27 @@
 #####Integration Engineer
 ---
 
-**Tel**: +44 7709681855  
-**E-mail**: george.angel.87@gmail.com  
-British Passport  
+**Tel**: (+44) 7709681855
+**E-mail**: george.angel.87@gmail.com
+British Passport
 
 ####Work History
 ---
 #####Financial Times :: Integration Engineer :: 2014-01 - Present
 
+Since June 2015 writing a new microservice platform, based around containers (Docker) hosted in AWS. Automating infrastructure management and writing a number of new microservices in go as supporting applications. New platform hosts ~20 business services and ~30 supporting (monitoring/deployment) of the image publication stack, including stateless applications, databases and message ques.
+
+######Highlights
+
+- Deployer service, deploying applications via pull requests
+- Infrastructure in a docker image, deploying a new application stack in 10 minutes with a single command
+- System monitor as a healthcheck 
+
 FTPlatform is an in-house built collection of services between FT applications and external providers (AWS, VMware..) built using Python and Django, that includes out of the box configuration and monitoring via Puppet and Nagios. In the FTPlatform team I was responsible for writing services exposing and consuming REST APIs and customer facing web UIs. Introducing unit testing, writing and maintaining large module repositories. Looking after services like SMTP and writing automation scripts for DNS.
 
 ######Achievements/Responsibilities
 - Building VMware, AWS interfacing components of FTPlatform
-- Management of FT SMTP servers and configuration  
+- Management of FT SMTP servers and configuration
 - Scripting DynDNS configuration using their APIs for quick and standardised changes
 - Writing a puppet module repository and maintaining a python cache repository
 - Local development of puppet modules using Docker
@@ -56,17 +64,17 @@ First team in FT to use Acceptance Test Driven Development (ATDD) and move the i
 
 Queen Mary University :: BCs Computer Science :: 2006 - 2009 
 
-**AWS training** - 2014, overview and hands work with ec2, s3, sts and other AWS services.  
+**AWS training** - 2014, overview and hands work with ec2, s3, sts and other AWS services.
 **Puppet training** - 2013 (PuppetLabs) course of advanced applications and uses of puppet. 
 
 ####Interests
 
-- Regularly attend meetups for DJango Dev, Puppet, Hacker News.  Attended Jax London Conf 2013, PuppetCamp 2014. 
-- Cryptocurrencies, secure distributed comms (tor, otr), data privacy (owncloud, mail). 
+- Regularly attend meetups for Docker, Containers, Golang. Attended Golang UK 2015.
+- Cryptocurrencies, secure distributed comms (tor, otr, ipfs, ssh), data privacy/encryption (owncloud, mail, luks). 
 
 ####Skills and Expertise:
 
-**Languages**: Java, Python, SQL, Puppet  
-**Frameworks/Libraries**: Django, Django REST, Docker, Spring, Hibernate, Mockito, Grinder  
-**Development Methodologies**: Agile, Scrum, Kanban, Devops  
+**Languages**: Go, Java, Python, Bash, SQL, Puppet
+**Frameworks/Libraries**: Docker, Ansible, Terraform, SystemD, CoreOS, Django, Spring, Hibernate, Mockito
+**Development Methodologies**: Agile, Scrum, Kanban, Devops
 
