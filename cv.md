@@ -3,7 +3,9 @@
 ---
 
 **Tel**: (+44) 7709681855
+
 **E-mail**: george.angel.87@gmail.com
+
 British Passport
 
 ####Work History
@@ -45,7 +47,6 @@ First team in FT to use Acceptance Test Driven Development (ATDD) and move the i
 - Atom feed between the application and downstream services
 - Nagios and Splunk alerting and monitoring of the service
 
-
 **Membership** - User/billing services
 
 - Paypal integration for ft.com subscription sign up
@@ -75,6 +76,8 @@ Queen Mary University :: BCs Computer Science :: 2006 - 2009
 ####Skills and Expertise:
 
 **Languages**: Go, Java, Python, Bash, SQL, Puppet
+
 **Frameworks/Libraries**: Docker, Ansible, Terraform, SystemD, CoreOS, Django, Spring, Hibernate, Mockito
+
 **Development Methodologies**: Agile, Scrum, Kanban, Devops
 
