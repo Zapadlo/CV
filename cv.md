@@ -10,7 +10,7 @@ British Passport
 ---
 #####Financial Times :: Integration Engineer :: 2014-01 - Present
 
-Since June 2015 writing a new microservice platform, based around containers (Docker) hosted in AWS. Automating infrastructure management and writing a number of new microservices in go as supporting applications. New platform hosts ~20 business services and ~30 supporting (monitoring/deployment) of the image publication stack, including stateless applications, databases and message ques.
+Since June 2015 writing a new microservice platform, based around containers (Docker) hosted in AWS. Automating infrastructure management and writing a number of new microservices in golang as supporting applications. New platform hosts ~20 business services and ~30 supporting (monitoring/deployment) of the image publication stack, including stateless applications, databases and message ques.
 
 ######Highlights
 
