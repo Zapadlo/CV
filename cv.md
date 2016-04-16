@@ -6,9 +6,9 @@
 
 **E-mail**: george.angel.87@gmail.com
 
-British Passport
-
 **Github:** https://github.com/Zapadlo
+
+British Passport
 
 #### Skills
 
@@ -22,7 +22,7 @@ British Passport
 ---
 ##### Financial Times :: Integration Engineer :: 2014-01 - Present
 
-Since June 2015 writing a new microservice platform, based around containers (Docker) hosted on AWS. Automating infrastructure management and writing a number of new microservices in golang as supporting applications. New platform hosts ~150 business services and ~150 supporting (monitoring/deployment) of the content API stack, including stateless applications, databases and messaging ques.
+Since June 2015 writing a new microservice platform, based around containers (Docker) hosted on AWS. Automating infrastructure management and writing a number of new microservices in golang as supporting applications. New platform hosts ~85 business services and ~30 supporting (monitoring/deployment) of the content API stack, including stateless applications, databases and messaging ques.
 
 ###### Highlights
 
@@ -74,9 +74,9 @@ First team in FT to use Acceptance Test Driven Development (ATDD) and move the i
 #### Education
 
 Queen Mary University :: BCs Computer Science :: 2006 - 2009 
-
-**AWS training** - 2014, overview and hands work with ec2, s3, sts and other AWS services.
-**Puppet training** - 2013 (PuppetLabs) course of advanced applications and uses of puppet. 
+ 
+- **AWS training** - 2014, overview and hands work with ec2, s3, sts and other AWS services.
+- **Puppet training** - 2013 (PuppetLabs) course of advanced applications and uses of puppet. 
 
 #### Interests
 
