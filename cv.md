@@ -81,5 +81,5 @@ Queen Mary University :: BCs Computer Science :: 2006 - 2009
 #### Interests
 
 - Regularly attend meetups for Docker, Containers, Golang. Attended Golang UK 2015.
-- Cryptocurrencies, secure distributed comms (tor, otr, ipfs, ssh), data privacy/encryption (owncloud, mail, luks). 
+- Cryptocurrencies, secure distributed comms (tor, otr, ipfs, ssh), data privacy/encryption (ed25519, gpg). 
 
