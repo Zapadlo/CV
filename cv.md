@@ -1,5 +1,5 @@
-####George Angel
-#####Integration Engineer
+#### George Angel
+##### Developer
 ---
 
 **Tel**: (+44) 7709681855
@@ -8,39 +8,49 @@
 
 British Passport
 
-####Work History
+**Github:** https://github.com/Zapadlo
+
+#### Skills
+
+**Languages**: Go, Python, Java, Bash, SQL, Puppet
+
+**Frameworks/Libraries**: Docker, Ansible, Terraform, SystemD, CoreOS, Django, Spring, Hibernate, Mockito
+
+**Development Methodologies**: Agile, Scrum, Kanban, Devops
+
+#### Work History
 ---
-#####Financial Times :: Integration Engineer :: 2014-01 - Present
+##### Financial Times :: Integration Engineer :: 2014-01 - Present
 
-Since June 2015 writing a new microservice platform, based around containers (Docker) hosted in AWS. Automating infrastructure management and writing a number of new microservices in golang as supporting applications. New platform hosts ~20 business services and ~30 supporting (monitoring/deployment) of the image publication stack, including stateless applications, databases and message ques.
+Since June 2015 writing a new microservice platform, based around containers (Docker) hosted on AWS. Automating infrastructure management and writing a number of new microservices in golang as supporting applications. New platform hosts ~150 business services and ~150 supporting (monitoring/deployment) of the content API stack, including stateless applications, databases and messaging ques.
 
-######Highlights
+###### Highlights
 
-- Deployer service, deploying applications via pull requests
-- Infrastructure in a docker image, deploying a new application stack in 10 minutes with a single command
-- System monitor as a healthcheck 
+- Deployer service, deploying applications via pull requests (golang)
+- Infrastructure in a docker image, deploying a new application stack in 10 minutes (using Ansible)
+- Built a VM monitoring app, that uses async metric fetching (golang)
+- Patching of the environments
 
 FTPlatform is an in-house built collection of services between FT applications and external providers (AWS, VMware..) built using Python and Django, that includes out of the box configuration and monitoring via Puppet and Nagios. In the FTPlatform team I was responsible for writing services exposing and consuming REST APIs and customer facing web UIs. Introducing unit testing, writing and maintaining large module repositories. Looking after services like SMTP and writing automation scripts for DNS.
 
-######Achievements/Responsibilities
+###### Highlights
 - Building VMware, AWS interfacing components of FTPlatform
-- Management of FT SMTP servers and configuration
 - Scripting DynDNS configuration using their APIs for quick and standardised changes
 - Writing a puppet module repository and maintaining a python cache repository
 - Local development of puppet modules using Docker
 
 ---
 
-#####Financial Times :: Analyst Programmer :: 2009-12 - 2013-12
+##### Financial Times :: Analyst Programmer :: 2009-12 - 2013-12
 
 Designing and writing customer facing applications such as: Subscriptions, Self-Servicing and Authorisation services. Internally, creating a performance testing suite covering 20+ applications. Creating a User API exposing endpoints to retrieve and update user data from/in the underlying data stores.
 
 Creating release plans and coordinating releases with a large number of dependencies. Supporting and upgrading legacy applications. Analysing and resolving Production issues.
 
-######Project highlights/achievements
+###### Highlights
 **Access Decision Service** - authorisation service for ft.com
 
-First team in FT to use Acceptance Test Driven Development (ATDD) and move the in-house FTPlatform service. Access was designed to be low latency, high availability service, my  responsibilities on the project included:
+First team in FT to use Acceptance Test Driven Development (ATDD) and move the in-house FTPlatform service. Access was designed to be low latency, high availability service, my responsibilities on the project included:
 
 - API services between new application and legacy systems 
 - Puppet module for database replication (Tungsten replicator)
@@ -61,23 +71,15 @@ First team in FT to use Acceptance Test Driven Development (ATDD) and move the i
 
 ---
 
-####Education
+#### Education
 
 Queen Mary University :: BCs Computer Science :: 2006 - 2009 
 
 **AWS training** - 2014, overview and hands work with ec2, s3, sts and other AWS services.
 **Puppet training** - 2013 (PuppetLabs) course of advanced applications and uses of puppet. 
 
-####Interests
+#### Interests
 
 - Regularly attend meetups for Docker, Containers, Golang. Attended Golang UK 2015.
 - Cryptocurrencies, secure distributed comms (tor, otr, ipfs, ssh), data privacy/encryption (owncloud, mail, luks). 
-
-####Skills and Expertise:
-
-**Languages**: Go, Java, Python, Bash, SQL, Puppet
-
-**Frameworks/Libraries**: Docker, Ansible, Terraform, SystemD, CoreOS, Django, Spring, Hibernate, Mockito
-
-**Development Methodologies**: Agile, Scrum, Kanban, Devops
 
